@@ -3,8 +3,8 @@ In today's world we are fortunate enough to have advanced technology which allow
 
 Layout for this notebook was given in assignment brief and is as follows:
 
-Brief Description of the Problem and Data<br>
-Exploratory Data Analysis (EDA) - Inspect, Visualize and Clean the Data<br>
-Describe Model Architecture<br>
-Results and Analysis<br>
-Conclusion<br>
+1. Brief Description of the Problem and Data<br>
+2. Exploratory Data Analysis (EDA) - Inspect, Visualize and Clean the Data<br>
+3. Describe Model Architecture<br>
+4. Results and Analysis<br>
+5. Conclusion<br>
